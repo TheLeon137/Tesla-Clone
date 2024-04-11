@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Tesla-Clone/build/static/css/main.a5d12b17.css",
+    "main.js": "/Tesla-Clone/build/static/js/main.72755851.js",
+    "static/media/GothamSSm-Book_Web.woff2": "/Tesla-Clone/build/static/media/GothamSSm-Book_Web.299e9ca606232b303d77.woff2",
+    "index.html": "/Tesla-Clone/build/index.html",
+    "main.a5d12b17.css.map": "/Tesla-Clone/build/static/css/main.a5d12b17.css.map",
+    "main.72755851.js.map": "/Tesla-Clone/build/static/js/main.72755851.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5d12b17.css",
+    "static/js/main.72755851.js"
+  ]
+}
